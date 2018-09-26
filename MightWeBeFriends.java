@@ -52,9 +52,7 @@ public class MightWeBeFriends {//start of class
             }
             else {
                 System.out.println("Sorry we will probably not be friends");
-            }//end if else
-            
-            
+            }
             }
             else{
                 System.out.println("Sorry we won't be friends");
